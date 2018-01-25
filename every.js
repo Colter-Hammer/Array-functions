@@ -29,7 +29,7 @@ var array = [{
 
 var array2 = ['Mexican', 'Mexican', 'Mexican']
 
-console.log(array.every(thing => thing.name.length > 4));
+console.log(array.every(thing => thing.name.length > 6));
 
 
 console.log(array);

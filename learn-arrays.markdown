@@ -15,7 +15,7 @@ The purpose of this is to learn how array functions work and how to use them. Se
  
  - Build a real world example. 
  
-
+ 
  1. [push](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/push)
  2. [pop](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/pop)
  3. [shift](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/shift)
