@@ -9,7 +9,8 @@
  * 
  *************/
 
- var arr = [1, 2, 3, 4, 5, 6, 7, 8];
+var arr = ['potato', 'things', 'stuff', 'tacos', 'yo mama'];
 
-var thing = arr.filter(num => num >= 5);
+var thing = arr.filter(word => word.length > 5);
+
 console.log(thing);

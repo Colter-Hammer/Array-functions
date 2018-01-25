@@ -7,11 +7,11 @@
  *    Returns the removed index.
  * 4. How can I use it?
  *    That is the question isn't it?
-******************/
+ ******************/
 
 var array = ['Things', 'Potato', 'tacos', 'other stuff'];
 var array2 = [];
-for(var i = array.length; i >= array.length; i--) {
+for (var i = array.length; i >= array.length; i--) {
   array2 += [array.pop()] + ', ';
   console.log(array);
   console.log(array2);

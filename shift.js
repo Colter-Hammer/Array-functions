@@ -9,13 +9,13 @@
  * 
  ****************/
 
- var array = ['things', 'stuff', 'blah', 'potato', 'more stuff'];
+var array = ['things', 'stuff', 'blah', 'potato', 'more stuff'];
 
- console.log(array.shift());
- console.log(array);
- 
- console.log(array.shift());
- console.log(array);
- 
- console.log(array.shift());
- console.log(array);
+console.log(array.shift());
+console.log(array);
+
+console.log(array.shift());
+console.log(array);
+
+console.log(array.shift());
+console.log(array);
