@@ -1,10 +1,10 @@
 /*************
  * 1. What does it do?
- *    Makes a new array with any elements that pass the test provided
+ *      Makes a new array with any elements that pass the test provided.
  * 2. Does it alter the original array?
- *    No
+ *      No.
  * 3. What does it return?
- *    A new array with the elements that pass the test.
+ *      A new array with the elements that pass the test.
  * 4. How can I use this?
  * 
  *************/

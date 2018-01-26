@@ -9,24 +9,31 @@
  *  
  *******************/
 
- var arr1 = [1, 4, 9];
+var arr1 = [1, 4, 9];
 
- var arr2 = arr1.map(Math.sqrt);
+var arr2 = [2,4,3,6,4,5,7,6];
 
- console.log(arr2);
+var arr3 = arr1.map((num,index) => {
+  return arr2[index] * Math.pow(Math.PI, 12);
+});
 
- var things = [{
-   type: 'Yum',
-   stuff: '40'
- },
-{
-type: 'Yuck',
-stuff: 'other'
-},
-{
-  type: 'eh',
-stuff: '26'
-}];
+console.log(arr3);
+
+console.log(arr2);
+
+var things = [{
+    type: 'Yum',
+    stuff: '40'
+  },
+  {
+    type: 'Yuck',
+    stuff: 'other'
+  },
+  {
+    type: 'eh',
+    stuff: '26'
+  }
+];
 
 var otherThings = things.map(obj => {
   var stuff = {};
