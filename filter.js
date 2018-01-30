@@ -10,7 +10,14 @@
  *************/
 
 var arr = ['potato', 'things', 'stuff', 'tacos', 'yo mama'];
+let stuff;
 
 var thing = arr.filter(word => word.length > 5);
 
+
+stuff = ['things','stuff','whatever','I\'m hungry'];
+
 console.log(thing);
+console.log(stuff.filter((value, index) => {
+    return value.length > 5 || index == 1;
+}));
