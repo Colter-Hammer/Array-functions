@@ -1,14 +1,15 @@
 ## Learn Array Methods
 
-The purpose of this is to learn how array functions work and how to use them. Search each of the listed array functions in [developer.mozilla.org](https://developer.mozilla.org/en-US/) (MDN). There are four questions for you to answer for each function. You will also write a real-world example to practice what you're learning. You should answer the questions as comments in your code. Once you've completed each set of questions and code, push it to your personal github account. 
+The purpose of this is to learn how array functions work and how to use them. Search each of the listed array functions in [developer.mozilla.org](https://developer.mozilla.org/en-US/) (MDN). There are five things for you to answer or do for each function. You will also write a real-world example to practice what you're learning. You should answer the questions as comments in your code. Once you've completed each set of questions and code, push it to your personal github account. 
 
  ### Questions to understand:
  
  1. What does it do?
  2. Does it edit the current array?
  3. What does it return?
- 4. How can I use this?
-
+ 4. How can I use this? Come up with a small real world example and explain it.
+ 5. Build your real world example.
+ 
  
  ### Test What You've Learned
  
