@@ -4,18 +4,14 @@ The purpose of this is to learn how array functions work and how to use them. Se
 
  ### Questions to understand:
  
- 1. What does it do?
+ 1. What does it do? make sure to explain the parameters.
  2. Does it edit the current array?
  3. What does it return?
  4. How can I use this? Come up (not one off the internet) with a small real world example and explain it.
  5. Build your real world example.
  
  
- ### Test What You've Learned
- 
- 
- - Build a real world example. 
- 
+ ### The Methods To Learn
  
  1. [push](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/push)
  2. [pop](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/pop)
@@ -34,5 +30,5 @@ The purpose of this is to learn how array functions work and how to use them. Se
  
  
  # Object Structure Manipulation Project
- 
+ come talk to me about this one
  
