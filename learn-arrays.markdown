@@ -33,3 +33,4 @@ The purpose of this is to learn how array functions work and how to use them. Se
  # Object Structure Manipulation Project
  come talk to Josh about this one
  
+[Return to training](https://github.com/byuitechops/for-the-strength-of-developers/blob/master/Introduction/coding.md)
