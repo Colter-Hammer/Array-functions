@@ -27,8 +27,9 @@ The purpose of this is to learn how array functions work and how to use them. Se
  6. [map](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
  7. [reduce](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reduce)
  8. Any other **3** functions you want
+  * When you choose the 3 functions, try to choose functions that will challenge you. If you already know them, try to use them in a different context by making it more dynamic. Be creative. This is an opportunity to learn and show your new skills.
  
  
  # Object Structure Manipulation Project
- come talk to me about this one
+ come talk to Josh about this one
  
