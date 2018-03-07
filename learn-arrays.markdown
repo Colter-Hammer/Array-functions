@@ -4,7 +4,7 @@ The purpose of this is to learn how array functions work and how to use them. Se
 
  ### Questions to understand:
  
- 1. What does it do? make sure to explain the parameters.
+ 1. What does it do? make sure to explain all the parameters. If it has a function as a parameter, make sure to explain all of the parameters for that function.
  2. Does it edit the current array?
  3. What does it return?
  4. How can I use this? Come up (not one off the internet) with a small real world example and explain it.
@@ -25,7 +25,7 @@ The purpose of this is to learn how array functions work and how to use them. Se
  5. [some](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/some)
  3. [filter](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter)
  6. [map](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
- 7. [reduce](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reduce)
+ 7. [reduce](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reduce) **Have an example both with and without a starting accumulator value**
  8. Any other **3** functions you want
   * When you choose the 3 functions, try to choose functions that will challenge you. If you already know them, try to use them in a different context by making it more dynamic. Be creative. This is an opportunity to learn and show your new skills.
  
