@@ -30,7 +30,7 @@ The purpose of this is to learn how array functions work and how to use them. Se
   * When you choose the 3 functions, try to choose functions that will challenge you. If you already know them, try to use them in a different context by making it more dynamic. Be creative. This is an opportunity to learn and show your new skills.
  
  
- # Object Structure Manipulation Project
- come talk to Josh about this one
+ # City Orgainizer Project
+ In practicing the array methods a training project has been set up called [City Orgainizer](https://github.com/byuitechops/city-organizer). Follow the instructions in that repository to complete the project.
  
 [Return to training](https://github.com/byuitechops/for-the-strength-of-developers/blob/master/Introduction/coding.md)
