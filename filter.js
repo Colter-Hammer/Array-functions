@@ -1,23 +1,8 @@
 /*************
+ * Filter
+ *
  * 1. What does it do?
- *      Makes a new array with any elements that pass the test provided.
  * 2. Does it alter the original array?
- *      No.
  * 3. What does it return?
- *      A new array with the elements that pass the test.
  * 4. How can I use this?
- * 
  *************/
-
-var arr = ['potato', 'things', 'stuff', 'tacos', 'yo mama'];
-let stuff;
-
-var thing = arr.filter(word => word.length > 5);
-
-
-stuff = ['things','stuff','whatever','I\'m hungry'];
-
-console.log(thing);
-console.log(stuff.filter((value, index) => {
-    return value.length > 5 || index == 1;
-}));
